@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camerademo</string>
+    <string name="retake">Retry</string>
+    <string name="submit">OK</string>
+</resources>
